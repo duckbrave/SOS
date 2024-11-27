@@ -1,0 +1,7 @@
+Relatório de Observação de Risco
+ID: 21
+CNPJ: 13.332.387/0001-25
+Setor: suporte
+Função: teste
+Risco: nascer torto
+Observação: socorro deus meia noite

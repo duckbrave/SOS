@@ -1,0 +1,14 @@
+CNPJ: 13.332.387/0001-25
+Nome da Empresa: MARCKA INFORMATICA E SISTEMAS LTDA
+Setor: vendas
+Função: rua
+Endereço: RUA WALDEMAR RANGRAB, SAO MIGUEL DO OESTE, 89.900-000
+Observação: deus naop sei
+
+CNPJ: 13.332.387/0001-25
+Nome da Empresa: MARCKA INFORMATICA E SISTEMAS LTDA
+Setor: suporte
+Função: tecnico de suporte
+Endereço: RUA WALDEMAR RANGRAB, SAO MIGUEL DO OESTE, 89.900-000
+Observação: oi txt
+
